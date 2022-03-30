@@ -1,0 +1,25 @@
+﻿Commodity,Driver 1,Driver 1 coupling,Driver 2,Driver 2 coupling,2015,2020,2025,2030
+AGRDSL,GDP per capita,0.5,Population,1,5.76,7.63,10.08,13.80
+AGRELC002,GDP per capita,1.25,Electrification rate,0.5,0.00,0.00,0.00,0.00
+COMBIO,GDP (real),0.5,GDP per capita,-0.5,15.79,17.61,18.79,19.96
+COMDSL,GDP (real),0.5,Population,0,2.45,2.91,3.64,4.75
+COMELC002,GDP (real),1,Electrification rate,0,8.62,12.06,18.72,31.41
+INDDSL,GDP - industry (real),0.5,Population,0,20.98,27.65,36.49,51.89
+INDELC002,GDP - industry (real),1,Electrification rate,0,10.93,18.62,31.95,63.15
+INDHFO,GDP - industry (real),0.5,Population,0,2.91,3.83,5.06,7.19
+INDNAP,GDP - industry (real),0.5,Population,0,1.69,2.23,2.94,4.18
+INDOHC,GDP - industry (real),0.5,Population,0,0.00,0.00,0.00,0.00
+MIGCOA,GDP - industry (real),0.6,Population,0,1.09,1.52,2.11,3.21
+MIGELC002,GDP - industry (real),0.6,Electrification rate,0,0.00,0.00,0.00,0.00
+MIGPCK,GDP - industry (real),0.6,Population,1,9.13,15.50,24.17,40.73
+OTHDSL,Population,1,Population,0,5.76,7.16,8.08,9.02
+OTHELC002,Population,1,Electrification rate,0,0.23,0.29,0.33,0.37
+OTHOHC,Population,1,Population,0,3.82,4.74,5.35,5.98
+RESBIO,GDP per capita,-0.3,Population,1,1569.63,1872.91,1917.58,1888.83
+RESELC002,Population,1,Electrification rate,1,11.91,21.05,52.31,86.47
+RESKER,GDP per capita,-0.1,Population,1,11.74,14.39,15.72,16.85
+RESLPG,GDP per capita,0.2,Population,1,0.38,0.48,0.58,0.70
+TRADSL,GDP (real),0.5,Population,0.5,53.79,71.04,94.28,129.60
+TRAELC002,GDP (real),0.5,Electrification rate,0.5,0.00,0.00,0.00,0.00
+TRAGSL,GDP (real),0.5,Population,0.5,14.75,19.48,25.86,35.54
+TRAJET,GDP (real),0.75,Population,0.5,3.18,4.55,6.72,10.48

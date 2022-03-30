@@ -1,0 +1,39 @@
+﻿Technology,Name,MoManI name,Construction year,2015,2020,2025,2030
+Small  Hydro,Abu Samuel,PWRHYD018,2020,0,0.006,0.006,0.006
+Medium Hydro,Wabi Shebele,PWRHYD019,2020,0,0.088,0.088,0.088
+Large Hydro,Genji,PWRHYD020,2024,0,0,0.214,0.214
+Large Hydro,Geba 1 + Geba 2,PWRHYD021,2020,0,0.372,0.372,0.372
+Large Hydro,Genale V,PWRHYD022,2020,0,0.1,0.1,0.1
+Large Hydro,Gibe IV,PWRHYD023,2020,0,2,2,2
+Large Hydro,Upper Dabus,PWRHYD024,2020,0,0.326,0.326,0.326
+Large Hydro,Birbir River,PWRHYD025,2023,0,0,0.467,0.467
+Large Hydro,Werabesa + Halele,PWRHYD026,2020,0,0.422,0.422,0.422
+Large Hydro,Yeda 1 + Yeda 2,PWRHYD027,2020,0,0.28,0.28,0.28
+Large Hydro,Genale Dawa VI,PWRHYD028,2020,0,0.256,0.256,0.256
+Large Hydro,Gibe V,PWRHYD029,2020,0,0.66,0.66,0.66
+Large Hydro,Lower Didessa,PWRHYD030,2020,0,0.55,0.55,0.55
+Large Hydro,Baro 1 + Baro 2,PWRHYD031,2024,0,0,0.645,0.645
+Large Hydro,Tekeze II,PWRHYD032,2020,0,0.45,0.45,0.45
+Large Hydro,Gojeb,PWRHYD033,2020,0,0.15,0.15,0.15
+Large Hydro,Aleltu East,PWRHYD034,2020,0,0.189,0.189,0.189
+Large Hydro,Tams,PWRHYD035,2020,0,1.7,1.7,1.7
+Large Hydro,Aleltu West,PWRHYD036,2020,0,0.265,0.265,0.265
+Large Hydro,Lower Dabus,PWRHYD037,2020,0,0.25,0.25,0.25
+Large Hydro,Karadobi,PWRHYD038,2021,0,0,1.6,1.6
+Large Hydro,Beko Abo,PWRHYD039,2022,0,0,0.935,0.935
+Large Hydro,Upper Mendaya,PWRHYD040,2023,0,0,1.7,1.7
+Large Hydro,Grand Renaissance,PWRHYD041,2018,0,0.5,0.5,0.5
+Large Hydro,Grand Renaissance II,PWRHYD042,2022,0,0,5,5
+Wind,[No name],PWRWND010,2021,0,0,0.91,0.91
+Wind,Dila,PWRWND011,2018,0,0.1,0.1,0.1
+Wind,Assela,PWRWND012,2018,0,0.1,0.1,0.1
+Wind,Sululta,PWRWND013,2019,0,0.1,0.1,0.1
+Wind,Mega Maji,PWRWND014,2019,0,0.1,0.1,0.1
+Solar,[No name],PWRSOL004,2021,0,0,0.45,0.45
+Geothermal,[No name],PWRGEO004,2021,0,0,0.34,0.34
+Geothermal,Corbetti,PWRGEO005,2022,0,0,1,1
+Geothermal,Tulu Moye/Abaya,PWRGEO006,2022,0,0,0.5,0.5
+Geothermal,Aluto Langano II,PWRGEO007,2018,0,0.075,0.075,0.075
+Biomass,Addis Ababa Reppi,PWRBIO003,2018,0,0.05,0.05,0.05
+Natural gas,OCGT/GT (Gas Turbine),PWRNGS001,2020,0,0.14,0.14,0.14
+Natural gas,CCGT (Natural gas power plant),PWRNGS002,2020,0,0.42,0.42,0.42

@@ -1,0 +1,76 @@
+﻿code,name
+AGR,Agriculture
+BAR,Barren land
+BIO,Biomass
+BLT,Built-up land
+COA,Coal
+COM,Commercial & services
+CP01,Barley
+CP02,Cereals
+CP03,Coffee
+CP04,Maize
+CP05,Oilseeds
+CP06,Other crops
+CP07,Pulses
+CP08,Sorghum
+CP09,Tea
+CP10,Teff
+CP11,Wheat
+CRU,Crude oil
+DSL,Diesel
+ELC,Electricity
+ELC_EXP,Electricity exports
+ELC_IMP,Electricity imports
+ELC_NET,Net electricity imports
+EVT,Evapotranspiration
+FOR,Forests
+GAS,Gas
+GEO,Geothermal
+GRC,Groundwater recharge
+GRS,Grassland & woodland
+GSL,Gasoline
+GWT,Groundwater
+HFO,HFO
+HYD,Hydro
+IND,Industry
+IRR,Irrigation
+JET,Aviation fuels
+JFL,Jet fuel
+KER,Kerosene
+LND,Land
+LNG,LNG
+LPG,LPG
+LPG,LPG
+LVS,Livestock
+LVSL01,Cattle
+LVSL02,Horses
+LVSL03,Donkeys/Mules
+LVSL04,Camels
+LVSL05,Sheep
+LVSL06,Pigs
+LVSL07,Chicken
+LVSPRDALL,Livestock
+MIG,Mining
+NAP,Naptha
+NGS,Natural gas
+OHC,Oil products
+OIL,Oil
+OTH,Other uses
+PCK,Petroleum coke
+PCK,Petroleum coke
+PET,Petroleum products
+PRC,Precipitation
+PUB,Public supply
+PWR,Power sector
+PWR_WAT,Power sector (consumptive use)
+PWR_WITH,Power sector (withdrawal)
+REN,Other renewables
+RES,Residential
+SOL,Solar
+SUR,Surface water run-off
+TLU,Livestock
+TRA,Transport
+URN,Nuclear
+WAS,MSW
+WAT,Water
+WND,Wind

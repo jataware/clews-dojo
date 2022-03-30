@@ -1,0 +1,13 @@
+﻿Crop code,Crop name,Area harvested (1000 sq.km),Production (Million tonnes),Yield (t/ha)
+CP01,Barley,9.70,2.10,2.11
+CP02,Cereals,5.86,1.17,2.27
+CP03,Coffee,6.86,0.47,0.67
+CP04,Maize,22.36,7.36,3.67
+CP05,Oilseeds,9.39,0.83,1.04
+CP06,Other crops,14.39,4.89,3.35
+CP07,Pulses,16.39,3.00,1.80
+CP08,Sorghum,18.28,4.93,2.53
+CP09,Tea,0.09,0.01,1.08
+CP10,Teff,31.52,5.39,1.66
+CP11,Wheat,17.49,4.24,2.68
+,TOTAL,152.33,34.40,2.33
