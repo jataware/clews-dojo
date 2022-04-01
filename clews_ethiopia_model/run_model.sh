@@ -16,6 +16,9 @@ if [[ ! -d $OUTDIR ]]; then
   mkdir $OUTDIR
 fi
 
+cd $OUTDIR
+
+mkdir -p "res/csv" || echo "res/csv dir already exists"
 
 python3 /clews_ethiopia_model/preprocess_data.py "$data_file" "$RUNDIR/$data_file_name" "$model_file" "$RUNDIR/$model_file_name"
 glpsol -m "$RUNDIR/$model_file_name" -d "$RUNDIR/$data_file_name" -o "$OUTDIR/results.txt"
