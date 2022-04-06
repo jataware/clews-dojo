@@ -18,7 +18,7 @@ fi
 
 cd $OUTDIR
 
-mkdir -p "res/csv" || echo "res/csv dir already exists"
-
 python3 /clews_ethiopia_model/preprocess_data.py "$data_file" "$RUNDIR/$data_file_name" "$model_file" "$RUNDIR/$model_file_name"
-glpsol -m "$RUNDIR/$model_file_name" -d "$RUNDIR/$data_file_name" -o "$OUTDIR/results.txt"
+glpsol --check -m "$RUNDIR/$model_file_name" -d "$RUNDIR/$data_file_name" --wlp "$RUNDIR/lpfile.lp"
+cbc "$RUNDIR/lpfile.lp" solve -solu "$OUTDIR/combined_results.txt"
+python3  /clews_ethiopia_model/postprocess_data.py "$OUTDIR/combined_results.txt" "$OUTDIR"
